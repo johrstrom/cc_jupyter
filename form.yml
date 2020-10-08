@@ -1,0 +1,7 @@
+---
+cluster: "saturn"
+form:
+  - hours
+attributes:
+  hours: 
+    value: 1
